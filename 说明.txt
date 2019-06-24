@@ -1,0 +1,3 @@
+1 cnpm install安装node_moudules
+2 连接数据库 cd到mongod的bin目录下： mongod --dbpath= 'db'数据库配置文件存放的路径
+3 启动：npm start
